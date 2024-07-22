@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .moz-backface-hidden {
+    -moz-backface-visibility: hidden;
+  }
+}
