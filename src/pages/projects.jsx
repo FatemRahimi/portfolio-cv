@@ -42,7 +42,7 @@ const projects = () => {
         </div>
         <div className="col-span-4">
           <ProjectCard
-            type= "Individual"
+            type= "CYF AWS"
             link="http://cyf-cafe-menu.s3-website-us-east-1.amazonaws.com/"
             github= "https://github.com/FatemRahimi/cafe-aws"
             title="CafeMenu"
@@ -55,7 +55,7 @@ const projects = () => {
         </div>
         <div className="col-span-4">
           <ProjectCard
-            type="Individual"
+            type="netcoming project"
             link="http://cyf-video-hub.s3-website-us-east-1.amazonaws.com"
             github="https://github.com/FatemRahimi/video-aws"
             title="Video Hub"
