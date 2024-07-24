@@ -37,7 +37,7 @@ const projects = () => {
             businessProblem="Users struggle to easily find and explore detailed information about TV shows and episodes, leading to a suboptimal browsing experience."
             solution="Developed a TV Show browser with vanilla JavaScript, allowing users to search and filter TV shows and episodes, view detailed information, and navigate seamlessly."
             skills="JavaScript-HTML-CSS-Fetch API-Moment.js-GitHub- Figma."
-            app="Full Stack Application"
+            app="JavaScript Application"
           />
         </div>
         <div className="col-span-4">
@@ -71,7 +71,7 @@ const projects = () => {
             type="CYF Project"
             link="https://cyf-hotel-react-fa-rahimi.netlify.app/"
             github="https://github.com/FatemRahimi/cyf-hotel-react"
-            title="React projetc"
+            title="Hotel Projetc"
             img={candyCrush}
             businessProblem="Hotel staff often face challenges managing bookings and restaurant orders efficiently, leading to potential operational inefficiencies and reduced customer satisfaction."
            solution="Created a user-friendly React Application for hotel users in 2 weeks, created a React-based Hotel Management Dashboard for efficient booking and restaurant order management. It features a table of booking data with detailed customer info from an external API, real-time search, order counters, and a section for tourist destinations. Client-side routing ensures seamless navigation"
@@ -81,14 +81,15 @@ const projects = () => {
         </div>
         <div className="col-span-4">
           <ProjectCard
-            type="indiv"
-            link="https://london9-amazon-clone-50-react-project.netlify.app"
-            github="https://github.com/ShayanMahnam/team-amazon-clone"
-            title="eShop"
+            type="Individual"
+            link="https://github.com/FatemRahimi/NFT-Web3"
+            github="nft-fatemeh.netlify.app/"
+            title="NFT MINT"
             img={eShop}
-            summary="A responsive React application seamlessly integrated with Firebase for secure authentication. Enjoy the convenience of effortlessly adding and removing items from your basket, elevating your shopping journey for a hassle-free and user-friendly experience."
-            skills="React.js-Firebase-CSS"
-            app="React Application"
+            businessProblem="A startup wants to launch a Non-Fungible Token (NFT) collection on the Ethereum blockchain using the Rinkeby test network. The business goal is to create a seamless user interface for customers to mint and purchase NFTs directly from their website."
+            solution="Providing a user-friendly interface for users to connect their cryptocurrency wallets and mint NFTs.Displaying minted NFTs dynamically to keep the users engaged and informed about the collection's status. Handling Ethereum transactions securely and efficiently."
+            skills="React.js-Bootstrap - Web3.js - Axios - MetaMask - Solidity - Ethereum - IPFS"
+            app="WEB3 Application"
           />
         </div>
       </div>
