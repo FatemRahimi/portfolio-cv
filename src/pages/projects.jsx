@@ -55,7 +55,7 @@ const projects = () => {
         </div>
         <div className="col-span-4">
           <ProjectCard
-            type="netcoming project"
+            type="Netcoming Project"
             link="http://cyf-video-hub.s3-website-us-east-1.amazonaws.com"
             github="https://github.com/FatemRahimi/video-aws"
             title="Video Hub"
