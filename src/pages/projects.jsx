@@ -68,19 +68,20 @@ const projects = () => {
         </div>
         <div className="col-span-4">
           <ProjectCard
-            type="CYF PROJECT"
-            link=""
-            github="https://github.com/Farnooshmo/teamwork-candy-crush-react"
+            type="CYF Project"
+            link="https://cyf-hotel-react-fa-rahimi.netlify.app/"
+            github="https://github.com/FatemRahimi/cyf-hotel-react"
             title="React projetc"
             img={candyCrush}
-            summary="The Candy Crush game is a delightful desktop experience created with React and basic CSS. While it provides an enjoyable gaming session, it currently focuses solely on tracking points without introducing levels or rewards. Enhancing the game's engagement could involve adding new and exciting elements to keep players entertained and motivated."
+            businessProblem="Hotel staff often face challenges managing bookings and restaurant orders efficiently, leading to potential operational inefficiencies and reduced customer satisfaction."
+           solution="Created a user-friendly React Application for hotel users in 2 weeks, created a React-based Hotel Management Dashboard for efficient booking and restaurant order management. It features a table of booking data with detailed customer info from an external API, real-time search, order counters, and a section for tourist destinations. Client-side routing ensures seamless navigation"
             skills="React.js-CSS"
             app="React Application"
           />
         </div>
         <div className="col-span-4">
           <ProjectCard
-            type="Team Work"
+            type="indiv"
             link="https://london9-amazon-clone-50-react-project.netlify.app"
             github="https://github.com/ShayanMahnam/team-amazon-clone"
             title="eShop"
