@@ -17,12 +17,12 @@ const projects = () => {
         <div className="col-span-4">
           <ProjectCard
             type="Team Work"
-            link="https://star-evolution.onrender.com/"
+            link="https://tech-pandas-star-h5sy.onrender.com/"
             github="https://github.com/FatemRahimi"
-            title="Star"
+            title="panda"
             img={star}
-            businessProblem="Trainees at CodeYourFuture struggle to structure interview examples using the standardized STAR format (Situation, Task, Action, Result). A proposed solution involves a user-friendly system with individual accounts, STAR format recording, and options for commenting, searching, and sorting."
-            skills="React.js-Tanstack Query-Jest-Express.js-TypeScript-Drizzle ORM-PostgreSQL-Oauth-Material UI-Docker"
+            businessProblem="Users often face difficulties in organizing and articulating their behavioral responses effectively in professional or interview settings using the STAR (Situation, Task, Action, Result) method."
+            skills=" Node.js-React.js-PostgreSQL-Jest- AUTH- Bootstrap- GitHub,-Miro-Figma-Jiro"
             app="Full Stack Application"
           />
         </div>
