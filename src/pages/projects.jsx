@@ -82,8 +82,8 @@ const projects = () => {
         <div className="col-span-4">
           <ProjectCard
             type="Individual"
-            link="https://github.com/FatemRahimi/NFT-Web3"
-            github="nft-fatemeh.netlify.app/"
+            link="nft-fatemeh.netlify.app/"
+            github="https://github.com/FatemRahimi/NFT-Web3"
             title="NFT MINT"
             img={eShop}
             businessProblem="A startup wants to launch a Non-Fungible Token (NFT) collection on the Ethereum blockchain using the Rinkeby test network. The business goal is to create a seamless user interface for customers to mint and purchase NFTs directly from their website."
