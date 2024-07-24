@@ -19,34 +19,37 @@ const projects = () => {
             type="Team Work"
             link="https://tech-pandas-star-h5sy.onrender.com/"
             github="https://github.com/FatemRahimi"
-            title="panda"
+            title="Panda Star"
             img={star}
             businessProblem="Users often face difficulties in organizing and articulating their behavioral responses effectively in professional or interview settings using the STAR (Situation, Task, Action, Result) method."
+            solution= "Created a user-friendly full-stack application for CodeYourFuture users in 4 weeks, application provides user authentication, role management, search and filter functionality, and features for commenting and editing entries, ensuring a collaborative and efficient interview preparation process."
             skills=" Node.js-React.js-PostgreSQL-Jest- AUTH- Bootstrap- GitHub,-Miro-Figma-Jiro"
             app="Full Stack Application"
           />
         </div>
         <div className="col-span-4">
           <ProjectCard
-            type="Team Work"
-            link="https://starter-kit-szhj.onrender.com/"
-            github="https://github.com/farzaneh-haghani/Final-Project-BookMe"
-            title="BookMe"
+            type="CYF Project"
+            link="https://zingy-sunburst-173494.netlify.app/"
+            github="https://github.com/FatemRahimi/tv-show-dom-project"
+            title="TV Show"
             img={bookMe}
-            businessProblem="Users face challenges in finding and booking experts proficient in various languages for consultations. Current platforms are limited to specific services (e.g., plumbing, legal, tech) and lack inclusivity. The absence of a language filter feature complicates the process of finding professionals fluent in specific languages."
-            skills="React.js-Express.js-Sequelize-PostgreSQL-Oauth-Material UI"
+            businessProblem="Users struggle to easily find and explore detailed information about TV shows and episodes, leading to a suboptimal browsing experience."
+            solution="Developed a TV Show browser with vanilla JavaScript, allowing users to search and filter TV shows and episodes, view detailed information, and navigate seamlessly."
+            skills="JavaScript-HTML-CSS-Fetch API-Moment.js-GitHub- Figma."
             app="Full Stack Application"
           />
         </div>
         <div className="col-span-4">
           <ProjectCard
-            type="Team Work"
+            type= "Individual"
             link="http://cyf-cafe-menu.s3-website-us-east-1.amazonaws.com/"
-            github="https://github.com/farzaneh-haghani/Cloud-Cafe-Menu"
+            github= "https://github.com/FatemRahimi/cafe-aws"
             title="CafeMenu"
             img={cafeMenu}
-            businessProblem="Cafes struggle to handle menus efficiently because their management systems are not user-friendly. Without an easy admin panel, it's hard to add, edit, or remove items smoothly. The existing tools also lack a good search feature, making it tough for cafe owners to manage their menus effectively."
-            skills="React.js-Express.js-PostgreSQL-Tailwind CSS-AWS-Docker Compose-CI/CD-terraform"
+            businessProblem= "Cafes struggle to handle menus efficiently because their management systems are not user-friendly. Without an easy admin panel, it's hard to add, edit, or remove items smoothly. The existing tools also lack a good search feature, making it tough for cafe owners to manage their menus effectively."
+           solution= "Implement a cloud-based menu management system using AWS services and a user-friendly admin panel built with React.js. This solution leverages Docker for containerization and PostgreSQL for the database, providing a seamless and efficient way to manage cafe menus."
+            skills= "React.js-Express.js-PostgreSQL-Tailwind CSS-AWS-Docker Compose-CI/CD-terraform"
             app="Full Stack Application"
           />
         </div>
@@ -54,20 +57,21 @@ const projects = () => {
           <ProjectCard
             type="Individual"
             link="http://cyf-video-hub.s3-website-us-east-1.amazonaws.com"
-            github="https://github.com/farzaneh-haghani/Video-Hub"
+            github="https://github.com/FatemRahimi/video-aws"
             title="Video Hub"
             img={video}
             businessProblem="Existing video platforms lack user control, particularly with YouTube content. There's a need for a user-friendly system enabling effortless video posting, deletion, and embedded watching. Additionally, essential features such as CRUD operations and voting are required for an enhanced user experience."
+            solution="Develop a comprehensive video platform using AWS and Terraform for infrastructure, enabling seamless video posting, deletion, and embedded watching. Integrate CRUD operations and voting features with Node.js and React.js to enhance user control and interaction."
             skills="React.js-Express.js-PostgreSQL-MAterial UI-Docker-AWS-CI/CD"
             app="Full Stack Application"
           />
         </div>
         <div className="col-span-4">
           <ProjectCard
-            type="Team Work"
-            link="https://teamwork-candycrush.netlify.app"
+            type="CYF PROJECT"
+            link=""
             github="https://github.com/Farnooshmo/teamwork-candy-crush-react"
-            title="Candy Crush"
+            title="React projetc"
             img={candyCrush}
             summary="The Candy Crush game is a delightful desktop experience created with React and basic CSS. While it provides an enjoyable gaming session, it currently focuses solely on tracking points without introducing levels or rewards. Enhancing the game's engagement could involve adding new and exciting elements to keep players entertained and motivated."
             skills="React.js-CSS"
