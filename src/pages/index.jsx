@@ -45,7 +45,7 @@ export default function Home() {
         </p>
         <div className="flex mt-10">
           <Link
-            href="https://drive.google.com/file/d/1fTwl1WcjjJQ7gRgyPaE6HQOqO1ayi1Ds/view"
+            href="https://drive.google.com/file/d/1APqs86okPNdNUXZ5TIDPygtL6CdyF4Fj/view?usp=sharing"
             aria-label="My CV"
             target="_blank"
             className="h-12 flex items-center bg-black px-10 rounded-xl text-xl font-extrabold dark:border dark:border-light"

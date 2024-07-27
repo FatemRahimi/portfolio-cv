@@ -52,7 +52,7 @@ const projects = () => {
             skills= "React.js-Express.js-PostgreSQL-Tailwind CSS-AWS-Docker Compose-CI/CD-terraform"
             app="Full Stack Application"
           />
-        </div>
+        </div>  
         <div className="col-span-4">
           <ProjectCard
             type="Netcoming Project"
