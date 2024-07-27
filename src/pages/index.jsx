@@ -18,11 +18,9 @@ export default function Home() {
       <div className="lg:w-[55%] flex flex-col items-center self-center text-base font-medium text-justify p-5">
         <AnimatedText text="Full Stack Software Engineer" />
         <p className="mt-10">
-          I am Fatemeh, a lifelong learner with a passion for coding and strong
-          problem-solving skills with a solid background in Computer Hardware
-          Engineering. I bring hands-on experience in developing web pages using
-          an adaptable stack, including Node, Express, Drizzle, Sequelize,
-          PostgreSQL, React, and JavaScript.
+          I am Fatemeh, a software engineer with a strong background in IT (data analysis) and systems engineering. I recently graduated from the award-winning CYF program and Netcoming, where I received extensive training in full-stack development and cloud computing.I bring hands-on experience in developing web pages using
+          an adaptable stack, including Node, Express, Python,
+          PostgreSQL, React, JavaScript, AWS services EC2, Lambda, CloudFront, Docker, GitHub Actions, Terraform, Web3, Digital Marketing.
         </p>
         <p className="mt-4">
           On my journey, I&apos;ve actively contributed to collaborative teams,
