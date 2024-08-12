@@ -19,7 +19,7 @@ const singleWord = {
     y: 50,
   },
   animate: {
-    opacity: 1,
+    opacity: 0,
     y: 0,
     transition: {
       duration: 1,
