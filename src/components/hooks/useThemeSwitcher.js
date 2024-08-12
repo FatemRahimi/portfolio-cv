@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+{ useEffect, useState } from "react";
 
 const useThemeSwitcher = () => {
   const [mode, setMode] = useState("");
