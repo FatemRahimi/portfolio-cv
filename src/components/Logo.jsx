@@ -10,7 +10,7 @@ const Logo = () => {
       <MotionLink
         href="/"
         whileHover={{
-          animate: { x: 500 },
+          animate: { x: 400 },
           scale: 1.2,
           transition: { ease: "easeOut", duration: 1, repeat: Infinity },
         }}
